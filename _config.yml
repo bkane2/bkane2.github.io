@@ -18,7 +18,7 @@ theme: jekyll-theme-so-simple
 skin: "/assets/css/skins/default.css"
 locale: en-US
 title: "Neg-Raising and Veridicality Inferences"
-description: "A study of Neg-Raising (and Semi-Neg-Raising) and Veridicality inferences and their distribution across lexiosyntactic frames."
+description: "A data-driven study on neg-raising inferences"
 baseurl: # the subpath of your site, e.g. "/blog"
 url: # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 logo: # path of site logo, e.g. "/images/logo.png"
