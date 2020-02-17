@@ -86,6 +86,9 @@ defaults:
       layout: post
       share: true
 
+owner:
+  name: Ben Kane
+
 # Site Author
 author:
   name: Ben Kane
