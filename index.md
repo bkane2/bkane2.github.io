@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: home
 title: About
 excerpt: "This project aims to study the relationships between the semantic properties and syntactic distribution of various verbs,
           and the sorts of neg-raising and veridical inferences that can be generated."
