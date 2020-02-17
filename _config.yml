@@ -17,8 +17,8 @@ theme: jekyll-theme-so-simple
 # remote_theme: mmistakes/so-simple-theme
 skin: "/assets/css/skins/default.css"
 locale: en-US
-title: "My Awesome Site"
-description: "It really is the best."
+title: "Neg-Raising and Veridicality Inferences"
+description: "A study of Neg-Raising (and Semi-Neg-Raising) and Veridicality inferences and their distribution across lexiosyntactic frames."
 baseurl: # the subpath of your site, e.g. "/blog"
 url: # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 logo: # path of site logo, e.g. "/images/logo.png"
@@ -88,9 +88,9 @@ defaults:
 
 # Site Author
 author:
-  name:
+  name: Ben Kane
   picture:
-  email:
+  email: bkane2@u.rochester.edu
   twitter:
   links:
     - title:
