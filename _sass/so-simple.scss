@@ -8,8 +8,8 @@
 @import "so-simple/functions";
 @import "so-simple/variables";
 @import "so-simple/mixins";
-@import "so-simple/vendor/breakpoint/breakpoint";
-@include breakpoint-set("to ems", true);
+// @import "so-simple/vendor/breakpoint/breakpoint";
+// @include breakpoint-set("to ems", true);
 @import "so-simple/vendor/lity/lity";
 
 /* Core Styles */
