@@ -7,4 +7,4 @@ search_omit: true
 
 ## Model architecture
 
-![model architecture]({{ site.url }}/assets/images/model.png)
+![model architecture](/assets/images/model.png)
