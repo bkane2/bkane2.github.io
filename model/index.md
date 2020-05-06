@@ -5,6 +5,6 @@ excerpt: "Details on our NLI model."
 search_omit: true
 ---
 
-## No data collected yet
+## Model architecture
 
-Stay tuned!
+[model architecture]({{ site.url }}/assets/images/model.png)
