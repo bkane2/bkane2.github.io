@@ -4,5 +4,7 @@
   url: /
 - title: Data
   url: /data/
-- title: Updates
-  url: /updates/
+# - title: Updates
+#   url: /updates/
+- title: Model
+  url: /model/
